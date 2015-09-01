@@ -1,25 +1,24 @@
-## Laravel PHP Framework
+# Interview Test For The PHP position a Gum Gumm
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+## Quiz
+[quiz](quiz.md)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+## Snippets
+[snippets](snippets.md)
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+## Project Exercise 1
+### Technology Stack
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+- **Laravel** - Laravel has routing and Eloquent, making it cleaner to run scripts on specific urls & faster to write database valid database queries
+- **jQuery** - Selecting from the Dom is always an open, but jQuery makes it faster to develop
+- **Twitter Boostrap** - Every non-designers best friend. Makes it simpler to make a better looking website.
 
-## Official Documentation
-
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+#### Still in progress...
+- **/list**
+    - Allowing CRUD operations on the table
+- **/report**
+    - Showing a by-day chart
+    - Allow sorting of the table
+    - Adding table header filters
+- **Changing the color scheme based on the current day's average temperature**
+ 
