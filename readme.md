@@ -21,4 +21,3 @@
     - Allow sorting of the table
     - Adding table header filters
 - **Changing the color scheme based on the current day's average temperature**
- 
