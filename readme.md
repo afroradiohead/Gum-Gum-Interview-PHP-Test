@@ -1,5 +1,7 @@
 # Interview Test For The PHP position a Gum Gumm
 
+Time spent so far: 9.2 hours
+
 ## Quiz
 [quiz](quiz.md)
 
